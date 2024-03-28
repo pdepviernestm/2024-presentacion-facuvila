@@ -4,6 +4,7 @@
 ## Sobre mí
  - Estudiante de Ingeniería en Sistemas
  - 19 años
+ - Vivo cerca de la sede Medrano
 
 ## En mi tiempo libre...
 Me gusta salir con amigos o familia, pensar nuevos proyectos y llevarlos a cabo.
